@@ -7,7 +7,7 @@
 [Python](/python)
 <img src="images/python.png?raw=true"/>
 <!--       _
-       .__(.)< (MEOW IM AN AIRPLANE)
+       .__(.)< (MOOOOO IM AN AIRPLANE)
         \___)   
  ~~~~~~~~~~~~~~~~~~-->
 
