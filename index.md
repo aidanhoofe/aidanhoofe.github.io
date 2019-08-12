@@ -6,6 +6,10 @@
 
 [Python](/python)
 <img src="images/python.png?raw=true"/>
+<!--       _
+       .__(.)< (MEOW IM AN AIRPLANE)
+        \___)   
+ ~~~~~~~~~~~~~~~~~~-->
 
 
 ---
