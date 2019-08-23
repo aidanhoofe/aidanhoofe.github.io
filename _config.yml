@@ -5,3 +5,6 @@ description: >
   
 theme: jekyll-theme-minimal
 google_analytics: UA-144919252-1
+
+plugins:
+  - jekyll-sitemap
